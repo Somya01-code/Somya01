@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Somya01-code
-- 👀 I’m interested in ...programming activities
-- 🌱 I’m currently learning ...to code in various languages at basic level
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Somya Agarwal, an engineering student.
+- 👀 I’m interested in the newest technologies like data science and machine learning.
+- 🌱 I’m currently inquisitive to work in the field of data science using Python
+- 📫 You can reach me through linkedin...https://www.linkedin.com/in/somya-agarwal-29b0241b2/
+
 
 <!---
 Somya01-code/Somya01-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
